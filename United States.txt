@@ -7,3 +7,5 @@ According to Reuters, Microsoft and Facebook are going to be working with federa
 Donald Trump signed into law the first policy related to deepfakes in 2019.
 
 This is going to be my trial for reset head 2.
+
+This will be a commit directly in the remote repository.
